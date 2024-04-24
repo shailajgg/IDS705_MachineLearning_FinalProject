@@ -19,7 +19,9 @@ git clone <repository_url>
 
 
 `Data Preprocessing:` Utilize provided scripts to clean and preprocess datasets, handling missing values, removing duplicates, and standardizing team names and IDs.
+
 `Feature Engineering:` Leverage feature engineering scripts to create various features from regular season data, opponent averages, team metrics, tournament seed, win ratio, seed difference, and team quality.
+
 `Model Training and Evaluation:` Experiment with different machine learning algorithms such as Logistic Regression, Random Forest, SVM, and XGBoost for model training and evaluation. Compare their performance using metrics like accuracy, AUC, and log-loss.
 Documentation: Refer to the detailed report in the Documentation directory for insights into the study's methodology, findings, and conclusions.
 
