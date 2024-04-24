@@ -12,7 +12,7 @@ This repository contains code and documentation for a comprehensive study on pre
 ## Getting Started
 1. **Clone the Repository:**
 ```bash
-git clone <repository_url>
+git clone <https://github.com/shailajgg/IDS705_MachineLearning_FinalProject>
 ```
 
 ## Usage
